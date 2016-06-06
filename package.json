@@ -1,0 +1,22 @@
+{
+  "name": "set-interval-n",
+  "version": "1.0.0",
+  "description": "setInterval() n times.",
+  "main": "index.js",
+  "keywords": [
+    "set",
+    "interval",
+    "n",
+    "times"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/set-interval-n.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/set-interval-n/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/set-interval-n"
+}
